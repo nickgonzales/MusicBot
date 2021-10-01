@@ -23,7 +23,7 @@
     "cmd-play-spotify-unavailable": "機器人設定未支援 Spotify URIs，請檢查你的設定。",
     "cmd-play-limit": "已經達到列隊歌曲的排隊最大值 ({0})",
     "cmd-play-noinfo": "無法播放此音樂。 嘗試使用 {0}stream 指令。",
-    "cmd-play-nodata": "從字串中提取訊息錯誤，youtubedl 沒有回傳資料。如果這種情況繼續發生，您可能需要重新啟動機器人。",
+    "cmd-play-nodata": "從字串中提取訊息錯誤，yt-dlp 沒有回傳資料。如果這種情況繼續發生，您可能需要重新啟動機器人。",
     "cmd-play-playlist-error": "排隊播放清單時出錯：\n`{0}`",
     "cmd-play-playlist-gathering-1": "收集 {0} 歌曲 {1} 的播放列表資訊",
     "cmd-play-playlist-gathering-2": ", ETA: {0} 秒",

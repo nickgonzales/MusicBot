@@ -23,7 +23,7 @@
     "cmd-play-spotify-unavailable": "El bot no está configurado para aceptar URIs de Spotify. Comprueba tu configuracion.",
     "cmd-play-limit": "Has alcanzado tu limite de canciones en cola ({0})",
     "cmd-play-noinfo": "Ese video no puede ser reproducido. Intenta usar el comando {0}stream.",
-    "cmd-play-nodata": "Error extrayendo información de la búsqueda, youtubedl no ha devuelto datos. Puede que tengas que reiniciar el bot si esto sigue pasando.",
+    "cmd-play-nodata": "Error extrayendo información de la búsqueda, yt-dlp no ha devuelto datos. Puede que tengas que reiniciar el bot si esto sigue pasando.",
     "cmd-play-playlist-error": "Error poniendo la lista en cola:\n'{0}'",
     "cmd-play-playlist-gathering-1": "Recopilando información para la lista {0} con {1} canciones.",
     "cmd-play-playlist-gathering-2": ", ETA: {0} segundos",

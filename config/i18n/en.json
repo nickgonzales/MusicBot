@@ -23,7 +23,7 @@
     "cmd-play-spotify-unavailable": "The bot is not setup to support Spotify URIs. Check your config.",
     "cmd-play-limit": "You have reached your enqueued song limit ({0})",
     "cmd-play-noinfo": "That video cannot be played. Try using the {0}stream command.",
-    "cmd-play-nodata": "Error extracting info from search string, youtubedl returned no data. You may need to restart the bot if this continues to happen.",
+    "cmd-play-nodata": "Error extracting info from search string, yt-dlp returned no data. You may need to restart the bot if this continues to happen.",
     "cmd-play-playlist-error": "Error queuing playlist:\n`{0}`",
     "cmd-play-playlist-gathering-1": "Gathering playlist information for {0} songs{1}",
     "cmd-play-playlist-gathering-2": ", ETA: {0} seconds",

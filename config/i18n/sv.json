@@ -23,7 +23,7 @@
     "cmd-play-spotify-unavailable": "Botten är inte konfigurerad för att stödja Spotify länkar. Kontrollera konfigurationen.",
     "cmd-play-limit": "Du har nått din gräns för köade låtar ({0})",
     "cmd-play-noinfo": "Videon kan inte spelas. Testa att använda {0}stream kommandot.",
-    "cmd-play-nodata": "Fel med att extrahera information från söksträngen, youtubedl returnerade ingen data. Du kan behöva starta om botten om detta fortsätter.",
+    "cmd-play-nodata": "Fel med att extrahera information från söksträngen, yt-dlp returnerade ingen data. Du kan behöva starta om botten om detta fortsätter.",
     "cmd-play-playlist-error": "Fel vid köandet utav spellista:\n`{0}`",
     "cmd-play-playlist-gathering-1": "Samlar spelliste information för {0} låtar{1}",
     "cmd-play-playlist-gathering-2": ", ETA: {0} sekunder",
